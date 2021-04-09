@@ -7,6 +7,37 @@ library(scales)
 library(Hmisc)
 ```
 
+```
+## Warning: package 'Hmisc' was built under R version 4.0.4
+```
+
+```
+## Loading required package: lattice
+```
+
+```
+## Warning: package 'lattice' was built under R version 4.0.4
+```
+
+```
+## Loading required package: survival
+```
+
+```
+## Loading required package: Formula
+```
+
+```
+## 
+## Attaching package: 'Hmisc'
+```
+
+```
+## The following objects are masked from 'package:base':
+## 
+##     format.pval, units
+```
+
 ## Loading and preprocessing the data
 ##### Load the data (i.e. read.csv())
 
